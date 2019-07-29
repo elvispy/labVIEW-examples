@@ -1,0 +1,74 @@
+27,984	27,984
+27,984	27,984
+27,984	27,984
+27,496	27,887
+27,496	27,789
+27,008	27,594
+27,008	27,398
+27,008	27,203
+27,984	27,301
+28,473	27,496
+28,961	27,887
+29,449	28,375
+30,426	29,059
+30,914	29,645
+30,914	30,133
+30,914	30,523
+30,426	30,719
+29,937	30,621
+29,449	30,328
+29,937	30,133
+30,914	30,133
+31,402	30,328
+31,891	30,719
+31,402	31,109
+30,914	31,305
+30,914	31,305
+29,937	31,012
+29,937	30,621
+29,937	30,328
+28,961	29,937
+28,961	29,547
+28,961	29,352
+28,473	29,059
+28,473	28,766
+29,449	28,863
+29,937	29,059
+30,914	29,449
+30,914	29,937
+30,426	30,328
+29,937	30,426
+29,449	30,328
+29,449	30,035
+28,961	29,645
+28,961	29,352
+28,473	29,059
+28,473	28,863
+27,984	28,570
+27,984	28,375
+27,496	28,082
+tAverage Temperature23,590	23,980
+Current Temperature\tAverage Temperature23,590	23,590
+Current Temperature\tAverage Temperature23,590	23,590
+Current Temperature\tAverage Temperature24,566	23,785
+Current Temperature\tAverage Temperature26,520	24,371
+Current Temperature\tAverage Temperature27,984	25,250
+Current Temperature\tAverage Temperature28,473	26,227
+Current Temperature\tAverage Temperature27,984	27,105
+Current Temperature\tAverage Temperature27,984	27,789
+Current Temperature\tAverage Temperature27,496	27,984
+Current Temperature\tAverage Temperature27,496	27,887
+Current Temperature\tAverage Temperature28,961	27,984
+Current Temperature\tAverage Temperature29,937	28,375
+Current Temperature\tAverage Temperature30,426	28,863
+Current Temperature\tAverage Temperature30,914	29,547
+Current Temperature\tAverage Temperature30,914	30,230
+Current Temperature\tAverage Temperature31,402	30,719
+Current Temperature\tAverage Temperature30,914	30,914
+Current Temperature\tAverage Temperature30,426	30,914
+Current Temperature\tAverage Temperature29,937	30,719
+Current Temperature\tAverage Temperature29,449	30,426
+Current Temperature\tAverage Temperature29,449	30,035
+Current Temperature\tAverage Temperature28,961	29,645
+Current Temperature\tAverage Temperature28,473	29,254
+Current Temperature\tAverage Temperature27,984	28,863
